@@ -1,0 +1,73 @@
+<--- INICIO --->
+---   DM   ---
+[        ] Job (rex) finished at 12/03/2022 01:00:06 done in 3s
+---   VAR2   ---
+[        ] Job started at 12/03/2022 03:00:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 12/03/2022 03:07:44 done in 7m 42s
+[        ] Job (rex) finished at 12/03/2022 03:08:13 done in 18s
+---   VAR1   ---
+[        ] Job started at 12/03/2022 04:00:02
+[Warning ] no robots data found
+[Warning ] skipped robots check
+[        ] Job finished at 12/03/2022 04:10:23 done in 10m 21s
+[        ] Job (rex) finished at 12/03/2022 04:10:41 done in 8s
+---   M3   ---
+[        ] Job started at 12/03/2022 05:30:01
+[        ] Job finished at 12/03/2022 05:46:55 done in 16m 54s
+[        ] Job (rex) finished at 12/03/2022 05:47:50 done in 37s
+---   M2   ---
+[        ] Job started at 12/03/2022 06:15:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 12/03/2022 06:36:39 done in 21m 38s
+[        ] Job (rex) finished at 12/03/2022 06:37:42 done in 45s
+---   M1   ---
+[        ] Job started at 12/03/2022 07:00:01
+[        ] Job finished at 12/03/2022 07:34:11 done in 34m 9s
+[        ] Job (rex) finished at 12/03/2022 07:35:13 done in 43s
+---   M3   ---
+[        ] Job started at 12/03/2022 11:30:01
+[        ] Job finished at 12/03/2022 11:52:37 done in 22m 35s
+[        ] Job (rex) finished at 12/03/2022 11:53:32 done in 39s
+---   M2   ---
+[        ] Job started at 12/03/2022 12:15:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 12/03/2022 12:34:55 done in 19m 53s
+[        ] Job (rex) finished at 12/03/2022 12:35:58 done in 46s
+---   M1   ---
+[        ] Job started at 12/03/2022 13:00:01
+[        ] Job finished at 12/03/2022 13:20:47 done in 20m 45s
+[        ] Job (rex) finished at 12/03/2022 13:21:49 done in 43s
+---   M3   ---
+[        ] Job started at 12/03/2022 17:30:02
+[        ] Job finished at 12/03/2022 17:41:48 done in 11m 46s
+[        ] Job (rex) finished at 12/03/2022 17:42:43 done in 39s
+---   M2   ---
+[        ] Job started at 12/03/2022 18:15:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 12/03/2022 18:30:49 done in 15m 48s
+[        ] Job (rex) finished at 12/03/2022 18:31:52 done in 45s
+---   M1   ---
+[        ] Job started at 12/03/2022 19:00:01
+[        ] Job finished at 12/03/2022 19:20:32 done in 20m 30s
+[        ] Job (rex) finished at 12/03/2022 19:21:34 done in 43s
+---   POR   ---
+[        ] Job started at 12/03/2022 20:00:01
+[        ] Job finished at 12/03/2022 20:01:38 done in 1m 37s
+[        ] Job (rex) finished at 12/03/2022 20:01:54 done in 6s
+---   FRA   ---
+[        ] Job started at 12/03/2022 21:15:01
+[        ] Job finished at 12/03/2022 21:16:50 done in 1m 49s
+[        ] Job (rex) finished at 12/03/2022 21:17:09 done in 9s
+---   GER   ---
+[        ] Job started at 12/03/2022 22:30:01
+[        ] Job finished at 12/03/2022 22:31:28 done in 1m 26s
+[        ] Job (rex) finished at 12/03/2022 22:31:44 done in 6s
+<---  FIN  --->

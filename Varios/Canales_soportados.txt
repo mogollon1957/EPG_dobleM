@@ -1,0 +1,301 @@
+1 - La 1
+2 - La 2
+3 - Antena 3
+4 - Cuatro
+5 - Telecinco
+6 - La Sexta
+7 - #0
+8 - #Vamos
+9 - Bajo demanda
+11 - M. Series
+12 - M. Series 2
+13 - Fox
+14 - AXN
+15 - TNT
+16 - Comedy Central
+17 - Calle 13
+18 - Cosmo
+19 - AMC
+21 - AXN White
+22 - SyFy
+23 - Energy
+24 - La Resistencia
+25 - Factoría de Ficción
+26 - Neox
+28 - M+ Los Oscar
+30 - M. Estrenos
+31 - M. Estrenos 2
+32 - M. Clásicos
+33 - M. Acción
+34 - M. Comedia
+35 - M. Drama
+36 - M. Cine Español
+37 - M. Fest
+38 - TCM
+39 - Canal Hollywood
+40 - Sundance TV
+43 - Paramount Network
+44 - Multideporte
+46 - M. LaLiga
+47 - M. LaLiga 1
+48 - M. LaLiga 2
+49 - M. LaLiga 3
+50 - M. Liga de Campeones
+51 - M. Liga de Campeones 1
+52 - M. Liga de Campeones 2
+53 - M. Deportes
+54 - M. Deportes 1
+55 - M. Deportes 2
+56 - M. Deportes 3
+57 - M. Golf
+58 - DAZN F1
+59 - DAZN 1
+60 - DAZN 2
+61 - Eurosport 1
+62 - Eurosport 2
+63 - Gol
+64 - Teledeporte
+65 - Caza y Pesca
+66 - Iberalia TV
+67 - Toros
+68 - Real Madrid TV
+69 - Barça TV
+70 - National Geographic
+71 - Nat Geo Wild
+72 - Historia
+73 - Discovery
+74 - Odisea
+75 - Blaze
+78 - Crimen+Investigación
+79 - Decasa
+80 - Canal Cocina
+81 - Divinity
+82 - Nova
+84 - Be Mad
+90 - Baby TV
+91 - Disney Junior
+92 - Canal Panda
+93 - Nick JR
+94 - Nickelodeon
+95 - Dreamworks
+96 - Disney Channel
+97 - Boing
+98 - Clan
+103 - MTV Hits
+104 - MTV 80s
+105 - MTV 00s
+106 - MTV España
+107 - Mezzo
+108 - Mezzo Live
+109 - Classica
+111 - Playboy TV
+112 - 24 Horas
+113 - BBC World News Europe
+114 - CNN International Europe
+115 - Fox News
+116 - EuroNews Français
+117 - Al Jazeera English
+118 - France 24 English
+120 - CNBC Europe
+122 - TV5 Monde Europe
+123 - Bloomberg TV Europe
+124 - Sky News
+130 - Arirang TV
+141 - Cubavisión Internacional
+142 - Telesur
+143 - NHK World TV
+144 - #Vamos Bar
+145 - LaLiga TV Bar
+146 - LaLiga TV Bar 1
+147 - LaLiga TV Bar 2
+148 - LaLiga TV Bar 3
+149 - LaLiga TV Bar 4
+150 - Canal Sur Andalucía
+151 - TVGA Europa
+152 - Canal Extremadura Sat
+155 - Aragón TV Internacional
+158 - SonLife Broadcasting Network
+161 - Alquiler
+162 - Alquiler 1
+170 - M. LaLiga 4
+171 - M. LaLiga 5
+172 - M. LaLiga 6
+173 - M. LaLiga 7
+174 - M. LaLiga 8
+175 - M. LaLiga 9
+176 - M. LaLiga 10
+177 - DAZN 3
+178 - DAZN 4
+180 - M. Liga de Campeones 3
+181 - M. Liga de Campeones 4
+182 - M. Liga de Campeones 5
+183 - M. Liga de Campeones 6
+184 - M. Liga de Campeones 7
+185 - M. Liga de Campeones 8
+186 - M. Liga de Campeones 9
+187 - M. Liga de Campeones 10
+188 - M. Liga de Campeones 11
+189 - M. Liga de Campeones 12
+192 - M. Deportes 4
+193 - M. Deportes 5
+194 - M. Deportes 6
+195 - M. Deportes 7
+196 - #Vamos Bar 1
+197 - #Vamos Bar 2
+200 - Portada
+208 - Telemadrid
+209 - TV3
+210 - À Punt
+211 - Aragón TV
+212 - TVG-TV Galicia
+213 - TVG 2
+214 - 7 TV Región Murcia
+215 - IB3 RTV Illes Balears
+216 - TV Canaria
+217 - Canal Sur
+218 - Andalucía TV
+219 - Canal Extremadura
+220 - Castilla la Mancha TV
+221 - La 7
+222 - ETB 1
+223 - ETB 2
+224 - TPA
+225 - La Ocho TV
+226 - La Otra
+227 - Atreseries
+241 - DARK
+242 - TRECE
+277 - DMAX
+283 - Mega
+285 - BOM Cine
+286 - Horse TV
+287 - Nautical Channel
+288 - El Garage TV
+289 - UBEAT
+299 - ETB 3
+303 - XTRM
+304 - Somos
+310 - Sol Música
+324 - El Toro TV
+325 - Negocios TV
+326 - DKISS
+327 - Ten
+328 - Canal Fútbol Replay
+329 - CNC World
+330 - CGTN Español
+334 - Telefe Internacional
+335 - Canal de las Estrellas
+338 - TV Chile
+339 - TV Colombia
+343 - EWTN
+353 - TV3 Cat
+354 - ETB Sat
+356 - Canal 33
+357 - Esport 3
+358 - 3 24
+359 - 8 TV
+360 - Betevé
+MTV 90s
+Club MTV
+ETB 4
+VE PLUS TV
+FOX SPORTS
+FOX SPORTS 2
+FOX SPORTS 3
+Vivid TV
+Hustler TV
+Selekt
+Cazavisión
+Canal Orange
+Lolly Kids
+Myzen TV
+Fashion TV
+OUTtv
+Escapa TV
+Festival 4K
+AllFlamenco
+iConcerts
+Djazz
+Fast&amp;FunBox
+FightSports
+Extreme Sp
+Outdoor Ch
+Pro TV
+Betis TV
+Speed Factor 4K
+France 2
+France 5
+Qveo
+Gulli
+La 8 Valladolid
+La 8 Palencia
+La 8 Burgos
+La 8 Salamanca
+La 8 Zamora
+La 8 Soria
+La 8 León
+La 8 Ponferrada
+La 8 Ávila
+La 8 Segovia
+La 8 Mediterraneo
+Sevilla Futbol Club
+La 1 Canarias
+La 1 Catalunya
+La 2 Canarias
+La 2 Catalunya
+24 horas Catalunya
+Sport TV+ POR
+Sport TV1 POR
+Sport TV2 POR
+Sport TV3 POR
+Sport TV4 POR
+Sport TV5 POR
+Sport TV6 POR
+Sport TV NBA POR
+Eleven Sports 1 POR
+Eleven Sports 2 POR
+Eleven Sports 3 POR
+Eleven Sports 4 POR
+Eleven Sports 5 POR
+Eleven Sports 6 POR
+ARTE FRA
+FRANCE 24 FRA
+I24 NEWS FRA
+MTV FRA
+RT FRANCE FRA
+BEIN SPORTS 1 FRA
+BEIN SPORTS 2 FRA
+BEIN SPORTS 3 FRA
+MULTISPORTS 1 FRA
+MULTISPORTS 2 FRA
+MULTISPORTS 3 FRA
+MULTISPORTS 4 FRA
+MULTISPORTS 5 FRA
+MULTISPORTS 6 FRA
+BEIN SPORTS MAX 4 FRA
+BEIN SPORTS MAX 5 FRA
+BEIN SPORTS MAX 6 FRA
+BEIN SPORTS MAX 7 FRA
+BEIN SPORTS MAX 8 FRA
+BEIN SPORTS MAX 9 FRA
+BEIN SPORTS MAX 10 FRA
+EUROSPORT 360 1 FRA
+EUROSPORT 360 2 FRA
+EUROSPORT 360 3 FRA
+EUROSPORT 360 4 FRA
+EUROSPORT 360 5 FRA
+EUROSPORT 360 6 FRA
+EUROSPORT 360 7 FRA
+EUROSPORT 360 8 FRA
+DAZN 1 GER
+DAZN 2 GER
+MTV GER HD
+Arte GER
+Sky Sport 1 GER HD
+Sky Sport 2 GER HD
+Sky Sport F1 GER
+Sky Sport Austria 1 GER
+Sky Sport Bundesliga 1 GER
+Sky Sport News GER HD
+TRT Türk GER
+QVC GER

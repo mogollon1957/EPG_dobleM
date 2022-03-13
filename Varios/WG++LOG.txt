@@ -1,0 +1,44 @@
+<--- INICIO --->
+---   DM   ---
+[        ] Job (rex) finished at 13/03/2022 01:00:05 done in 3s
+---   VAR2   ---
+[        ] Job started at 13/03/2022 03:00:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 13/03/2022 03:07:23 done in 7m 22s
+[        ] Job (rex) finished at 13/03/2022 03:07:53 done in 18s
+---   VAR1   ---
+[        ] Job started at 13/03/2022 04:00:01
+[        ] Job finished at 13/03/2022 04:11:57 done in 11m 56s
+[        ] Job (rex) finished at 13/03/2022 04:12:16 done in 8s
+---   M3   ---
+[        ] Job started at 13/03/2022 05:30:01
+[        ] Job finished at 13/03/2022 05:46:26 done in 16m 25s
+[        ] Job (rex) finished at 13/03/2022 05:47:21 done in 38s
+---   M2   ---
+[        ] Job started at 13/03/2022 06:15:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 13/03/2022 06:40:02 done in 25m 0s
+[        ] Job (rex) finished at 13/03/2022 06:41:09 done in 49s
+---   M1   ---
+[        ] Job started at 13/03/2022 07:00:01
+[        ] Job finished at 13/03/2022 07:25:04 done in 25m 2s
+[        ] Job (rex) finished at 13/03/2022 07:26:04 done in 42s
+---   M3   ---
+[        ] Job started at 13/03/2022 11:30:01
+[        ] Job finished at 13/03/2022 11:41:20 done in 11m 18s
+[        ] Job (rex) finished at 13/03/2022 11:42:14 done in 38s
+---   M2   ---
+[        ] Job started at 13/03/2022 12:15:01
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 13/03/2022 12:34:44 done in 19m 43s
+[        ] Job (rex) finished at 13/03/2022 12:35:51 done in 49s
+---   M1   ---
+[        ] Job started at 13/03/2022 13:00:01
+[        ] Job finished at 13/03/2022 13:20:05 done in 20m 3s
+[        ] Job (rex) finished at 13/03/2022 13:21:07 done in 42s
